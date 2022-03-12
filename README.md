@@ -1,3 +1,3 @@
 # README
-a batchfile replay event installer
+a batchfile event replay installer
 
